@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Keertan-27/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Keertan-27/leetcode-problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Keertan-27/leetcode-problems/tree/master/0189-rotate-array) |
 ## Bit Manipulation
