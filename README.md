@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Keertan-27/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Keertan-27/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Keertan-27/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Keertan-27/leetcode-problems/tree/master/0383-ransom-note) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Keertan-27/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keertan-27/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
