@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Keertan-27/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Keertan-27/leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Keertan-27/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Keertan-27/leetcode-problems/tree/master/0392-is-subsequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Keertan-27/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Keertan-27/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keertan-27/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Keertan-27/leetcode-problems/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Keertan-27/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Keertan-27/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Keertan-27/leetcode-problems/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Keertan-27/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/Keertan-27/leetcode-problems/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
