@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Keertan-27/leetcode-problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Keertan-27/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Keertan-27/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Keertan-27/leetcode-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Keertan-27/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Keertan-27/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Keertan-27/leetcode-problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Keertan-27/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Keertan-27/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Keertan-27/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Keertan-27/leetcode-problems/tree/master/0189-rotate-array) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Keertan-27/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Keertan-27/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keertan-27/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Keertan-27/leetcode-problems/tree/master/0392-is-subsequence) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Keertan-27/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Keertan-27/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keertan-27/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Keertan-27/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 ## Tree
@@ -137,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keertan-27/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Keertan-27/leetcode-problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
