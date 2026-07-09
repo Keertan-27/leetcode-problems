@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Keertan-27/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Keertan-27/leetcode-problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Keertan-27/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Keertan-27/leetcode-problems/tree/master/0053-maximum-subarray) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Keertan-27/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Keertan-27/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Keertan-27/leetcode-problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Keertan-27/leetcode-problems/tree/master/0042-trapping-rain-water) |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Keertan-27/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Keertan-27/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Keertan-27/leetcode-problems/tree/master/0503-next-greater-element-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Keertan-27/leetcode-problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
