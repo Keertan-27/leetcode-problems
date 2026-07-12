@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Keertan-27/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Keertan-27/leetcode-problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Keertan-27/leetcode-problems/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0263-ugly-number) |
 ## Bit Manipulation
 |  |
 | ------- |
