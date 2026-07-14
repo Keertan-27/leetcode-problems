@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Keertan-27/leetcode-problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Keertan-27/leetcode-problems/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0263-ugly-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Keertan-27/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Keertan-27/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/Keertan-27/leetcode-problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Keertan-27/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Keertan-27/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Keertan-27/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/Keertan-27/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
