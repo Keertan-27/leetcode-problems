@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Keertan-27/leetcode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Keertan-27/leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Keertan-27/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Keertan-27/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Keertan-27/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Keertan-27/leetcode-problems/tree/master/0496-next-greater-element-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Keertan-27/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Keertan-27/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Keertan-27/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Keertan-27/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
@@ -80,12 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Keertan-27/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Keertan-27/leetcode-problems/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Keertan-27/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Keertan-27/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Keertan-27/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Keertan-27/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Keertan-27/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Keertan-27/leetcode-problems/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Keertan-27/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Keertan-27/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -225,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Keertan-27/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keertan-27/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
