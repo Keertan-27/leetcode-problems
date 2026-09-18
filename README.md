@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Keertan-27/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Keertan-27/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Keertan-27/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Keertan-27/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Keertan-27/leetcode-problems/tree/master/0503-next-greater-element-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Keertan-27/leetcode-problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Keertan-27/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Keertan-27/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Keertan-27/leetcode-problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Keertan-27/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Keertan-27/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Keertan-27/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keertan-27/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -255,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Keertan-27/leetcode-problems/tree/master/0062-unique-paths) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
