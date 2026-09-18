@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Keertan-27/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keertan-27/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Keertan-27/leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Keertan-27/leetcode-problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Keertan-27/leetcode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Keertan-27/leetcode-problems/tree/master/0213-house-robber-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Keertan-27/leetcode-problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Keertan-27/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Keertan-27/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Keertan-27/leetcode-problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Keertan-27/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Keertan-27/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Keertan-27/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Keertan-27/leetcode-problems/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Keertan-27/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Keertan-27/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Keertan-27/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Keertan-27/leetcode-problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Keertan-27/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Keertan-27/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0268-missing-number) |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Keertan-27/leetcode-problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Keertan-27/leetcode-problems/tree/master/0383-ransom-note) |
 ## Stack
 |  |
@@ -267,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Keertan-27/leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
