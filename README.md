@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keertan-27/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Keertan-27/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Keertan-27/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keertan-27/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Keertan-27/leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Keertan-27/leetcode-problems/tree/master/0189-rotate-array) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Keertan-27/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Keertan-27/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Keertan-27/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Keertan-27/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keertan-27/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
