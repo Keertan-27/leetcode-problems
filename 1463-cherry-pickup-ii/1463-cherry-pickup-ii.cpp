@@ -6,6 +6,8 @@ public:
         int m = grid[0].size();
         if (col1 < 0 || col1 > m - 1 || col2 < 0 || col2 > m - 1)
             return 0;
+        if (dp[row][col1][col2] != -1)
+            return dp[row][col1][col2];
         if (row == n - 1) {
             if (col1 == col2) {
                 return grid[row][col1];
@@ -13,18 +15,17 @@ public:
             return grid[row][col1] + grid[row][col2];
         }
 
-        if (dp[row][col1][col2] != -1)
-            return dp[row][col1][col2];
-
         int maxAns = grid[0][0];
         for (int d1 = -1; d1 <= 1; d1++) {
             for (int d2 = -1; d2 <= 1; d2++) {
                 if (col1 == col2) {
-                    maxAns = max(maxAns, grid[row][col1] +
-                                             f(row + 1, col1 + d1, col2 + d2, grid, dp));
+                    maxAns =
+                        max(maxAns, grid[row][col1] + f(row + 1, col1 + d1,
+                                                        col2 + d2, grid, dp));
                 } else {
-                    maxAns = max(maxAns, grid[row][col1] + grid[row][col2] +
-                                             f(row + 1, col1 + d1, col2 + d2, grid, dp));
+                    maxAns = max(
+                        maxAns, grid[row][col1] + grid[row][col2] +
+                                    f(row + 1, col1 + d1, col2 + d2, grid, dp));
                 }
             }
         }
