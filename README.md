@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Keertan-27/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Keertan-27/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1463-cherry-pickup-ii](https://github.com/Keertan-27/leetcode-problems/tree/master/1463-cherry-pickup-ii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Keertan-27/leetcode-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Keertan-27/leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Keertan-27/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Keertan-27/leetcode-problems/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Keertan-27/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keertan-27/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Keertan-27/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Keertan-27/leetcode-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Sliding Window
 |  |
 | ------- |
