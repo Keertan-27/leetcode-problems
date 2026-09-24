@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Keertan-27/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keertan-27/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Keertan-27/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Keertan-27/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Keertan-27/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Keertan-27/leetcode-problems/tree/master/0503-next-greater-element-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Keertan-27/leetcode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Keertan-27/leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Keertan-27/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Keertan-27/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [1463-cherry-pickup-ii](https://github.com/Keertan-27/leetcode-problems/tree/master/1463-cherry-pickup-ii) |
 ## Hash Table
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Keertan-27/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Keertan-27/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Keertan-27/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Keertan-27/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/Keertan-27/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Keertan-27/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Keertan-27/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Keertan-27/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keertan-27/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Keertan-27/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Keertan-27/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Keertan-27/leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Keertan-27/leetcode-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
